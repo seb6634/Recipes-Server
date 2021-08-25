@@ -1,1 +1,1 @@
-# Recipes-Server
+# Recipe server for the React O-recipes App
